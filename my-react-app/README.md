@@ -11,4 +11,4 @@ In this Assignment user has to create a React Component function with props usin
 
 ## Output
 
-![expected output](outputCapture.PNG)
+![expected output](output/Capture.PNG)
